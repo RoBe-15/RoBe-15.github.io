@@ -9,3 +9,5 @@ Das kriege ich mit dieser Zeile aber hoffentlich hin (jetzt müßte es mehr als 
 
 > Zwei Dinge sind unendlich, das Weltall und die menschliche Dummheit.
 > Wobei ich mir beim Weltall nicht sicher bin.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Einstein_1921_portrait2.jpg/330px-Einstein_1921_portrait2.jpg" />
