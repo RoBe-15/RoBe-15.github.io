@@ -1,4 +1,4 @@
-#Das ist der Titel
-Dies ist jetzt die Beschreibung irgendeines von mir ausgewählten Charakters.
-Mit 30 bis 50 Wörtern ist das aber schon recht viel, was hier geschrieben werden soll.
-Das kriege ich mit dieser Zeile aber hoffentlich hin (jetzt müßte es mehr als 30 Wörter haben).
+# Titel der Webseite
+Dies ist jetzt die Beschreibung irgendeines von mir ausgewÃ¤hlten Charakters.
+Mit 30 bis 50 WÃ¶rtern ist das aber schon recht viel, was hier geschrieben werden soll.
+Das kriege ich mit dieser Zeile aber hoffentlich hin (jetzt mÃ¼ÃŸte es mehr als 30 WÃ¶rter haben).
