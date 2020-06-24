@@ -7,5 +7,5 @@ Das kriege ich mit dieser Zeile aber hoffentlich hin (jetzt müßte es mehr als 
 * Punkt 2
 * Punkt 3
 
-> Zwei Dinge sind unendlich, das Weltall und die menchliche Dummheit.
+> Zwei Dinge sind unendlich, das Weltall und die menschliche Dummheit.
 > Wobei ich mir beim Weltall nicht sicher bin.
